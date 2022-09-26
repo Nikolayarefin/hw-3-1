@@ -63,6 +63,13 @@ body {
   /* outline: 2px solid red; */
   margin: 0 auto;
 }
+
+.secnion {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+
 /* ============HEADER=========== */
 .header {
   padding-top: 24px;
@@ -144,8 +151,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 8px;
-  padding-top: 94px;
-  padding-bottom: 34px;
+  margin-bottom: 34px;
 }
 
 
